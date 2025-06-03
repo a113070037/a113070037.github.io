@@ -1,6 +1,22 @@
 
 
 nav {
-  background: fixed url(../assets/img/bg.jpg) no-repeat center center;
+  background: fixed url(../assets/img/bg.jpg) repeat center center;
 }
 
+body {
+    background-color: #dad1c0;
+}
+
+.sideNav {
+    background: #a62927;
+}
+
+.mb-5{
+    font-family: "Ancizar Serif";
+    color: #402f25 !important;
+}
+.text-primary{
+    font-family: "M PLUS Rounded 1c", sans-serif"
+    color: #402f25 !important; 
+}
