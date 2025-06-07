@@ -16,7 +16,16 @@ body {
     font-family: "Ancizar Serif";
     color: #402f25 !important;
 }
+
+.mb-0{
+    font-family: "Ancizar Serif";
+    color: #402f25 !important;
+}
 .text-primary{
     font-family: "M PLUS Rounded 1c", sans-serif"
     color: #402f25 !important; 
+}
+
+.bio-text my-button-style{
+    color: #402f25;
 }
